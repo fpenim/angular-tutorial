@@ -1,3 +1,11 @@
+# Angular Heroes Tutorial
+
+This is the resulting TypeScript source code after following the tutorial: https://angular.io/docs/ts/latest/quickstart.html
+
+My Travis build: [![Build Status](https://travis-ci.org/fpenim/angular-tutorial.svg?branch=master)](https://travis-ci.org/fpenim/angular-tutorial)
+
+---
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
